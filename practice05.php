@@ -1,5 +1,5 @@
 <?php
-$calendar_2018 = [
+$calendar_2018 =[
   "January" => "1月",
   "February" => "2月",
   "March" => "3月",
@@ -15,7 +15,7 @@ $calendar_2018 = [
 ];
 
 // 12月を表示する
-echo $calendar_2018 ["December"];
+echo $calendar_2018["December"];
 
 //修正点まとめ
 // 1.phpの開始宣言がなされてなかったので「<?php」を追加

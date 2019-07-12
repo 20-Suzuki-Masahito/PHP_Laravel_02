@@ -4,7 +4,7 @@
 //echo $array_month [7];
 
 //練習として上記を連想配列で再現する。
-$array_month = [
+$array_month =[
     "Jan." => "1月",
     "Feb." => "2月",
     "Mar." => "3月",
@@ -17,6 +17,6 @@ $array_month = [
     "Oct." => "10月",
     "Nov." => "11月",
     "Dec." => "12月"
-    ];
+];
 
-echo $array_month ["Aug."];
+echo $array_month["Aug."];
